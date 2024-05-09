@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">YGO deck builder</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">register</string>
+    <string name="todo">TODO</string>
+    <string name="buscar">Buscar</string>
+    <string name="nombre_de_la_carta">Nombre de la carta</string>
+    <string name="expected_ulr">Expected Ulr</string>
+    <string name="id_found">Id found</string>
+</resources>
